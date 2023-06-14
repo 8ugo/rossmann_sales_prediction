@@ -1,5 +1,5 @@
 Boruta==0.3
-Flask==2.3.2
+Flask==2.2.5
 inflection==0.5.1
 matplotlib==3.7.1
 numpy==1.24.2
