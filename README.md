@@ -46,19 +46,30 @@ Com a implementação desse sistema automatizado, espera-se que o CFO tenha aces
 
  ![](img/crisp_ds.png)
 
-O método CRISP-DM consiste em nove passos cíclicos para desenvolver uma solução de forma iterativa e com entregas rápidas e de qualidade. Os passos são:
+**Passos do CRISP-DS**:
 
-**1. Problema de Negócio:** Receber o problema de negócio a ser resolvido.
-**2. Entendimento de Negócio:** Compreender a necessidade e a dor do dono do problema.
-**3. Coleta de Dados:** Coletar os dados necessários nas fontes apropriadas.
-**4. Limpeza dos Dados:** Remover inconsistências e sujeiras nos dados.
-**5. Exploração dos Dados:** Analisar e entender os dados, gerando hipóteses acionáveis.
-**6. Modelagem dos Dados:** Preparar os dados para serem usados nos algoritmos de Machine Learning.
-**7. Aplicação de Algoritmos de Machine Learning:** Selecionar e aplicar algoritmos aos dados preparados.
-**8. Avaliação de Performance:** Avaliar a performance do modelo e sua tradução em termos de retorno financeiro.
-**9. Publicação da Solução:** Publicar a solução final e utilizável.
+O método CRISP-DS consiste em nove passos cíclicos para desenvolver uma solução de forma iterativa e com entregas rápidas e de qualidade. Os passos são:
+
+**1. Problema de Negócio:** Nesta etapa, o objetivo é receber e compreender o problema de negócio que será abordado. É fundamental entender as perguntas e necessidades do cliente ou dono do problema.
+
+**2. Entendimento de Negócio:** Nesta etapa, busca-se obter uma visão mais aprofundada do problema e das necessidades do cliente. Protótipos e validações podem ser utilizados para assegurar o alinhamento com o cliente.
+
+**3. Coleta de Dados:** Aqui, os dados relevantes para a solução são coletados de diversas fontes, como bancos de dados internos ou externos.
+
+**4. Limpeza dos Dados:** Nesta etapa, os dados são preparados e tratados para garantir sua qualidade e consistência. Dados ausentes, inconsistentes ou incorretos são tratados adequadamente.
+
+**5. Exploração dos Dados:** O objetivo é analisar os dados coletados e identificar padrões, tendências e insights relevantes. Visualizações e análises estatísticas são aplicadas para entender melhor os dados.
+
+**6. Modelagem dos Dados:** Nesta etapa, os dados são transformados e preparados para serem utilizados por algoritmos de Machine Learning. Variáveis de entrada e saída são definidas e modelos são treinados e validados.
+
+**7. Aplicação de Algoritmos de Machine Learning:** Aqui, os modelos treinados são aplicados aos dados para gerar resultados e previsões. O desempenho dos modelos é monitorado e ajustes podem ser realizados.
+
+**8. Avaliação de Performance:** Nesta etapa, a performance dos modelos é avaliada em relação aos objetivos de negócio estabelecidos. Os resultados são comparados com métricas de referência ou outras abordagens existentes.
+
+**9. Publicação da Solução:** Por fim, a solução é documentada, apresentada e disponibilizada para uso. Os resultados são comunicados ao cliente ou stakeholders relevantes.
 
 Esse ciclo se repete, permitindo melhorias contínuas com base no feedback e na validação dos resultados.
+
  ## 3.1. Produto Final
  Foi combinado com o CFO que seria entregue um Bot dentro do aplicativo Telegram, facilitando assim que o CFO verifique a previsão das lojas independente do local em que ele esteja.
 
