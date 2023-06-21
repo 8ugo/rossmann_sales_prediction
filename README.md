@@ -54,7 +54,7 @@ O método CRISP-DS consiste em nove passos cíclicos para desenvolver uma soluç
 
 **2. Entendimento de Negócio:** Nesta etapa, busca-se obter uma visão mais aprofundada do problema e das necessidades do cliente. Protótipos e validações podem ser utilizados para assegurar o alinhamento com o cliente.
 
-**3. Coleta de Dados:** Aqui, os dados relevantes para a solução são coletados de diversas fontes, como bancos de dados internos ou externos.
+**3. Coleta de Dados:** Aqui, os dados relevantes para a solução foram coletados no site do Kaggle.
 
 **4. Limpeza dos Dados:** Nesta etapa, os dados são preparados e tratados para garantir sua qualidade e consistência. Dados ausentes, inconsistentes ou incorretos são tratados adequadamente.
 
