@@ -1,6 +1,6 @@
 # rossmann_sales_prediction
 # Previsão de Vendas - Rede de Farmácias Rossmann
- ![](img/rossmann.png)
+ ![](img/rossmann_view.png)
 
  A Rossmann opera mais de 3.000 drogarias em 7 países europeus e cerca de 56 mil colaboradores. 
 
