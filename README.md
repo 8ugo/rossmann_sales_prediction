@@ -43,7 +43,6 @@ Com a implementação desse sistema automatizado, espera-se que o CFO tenha aces
 
  # 3. Estratégia da Solução
  Para fazer a entrega da primeira solução de maneira o mais rápido possível, entregando valor para a empresa e possibilitando que o CFO tome decisões com mais agilidade, foi utilizado o método CRISP-DS
-
  ![](img/crisp_ds.png)
 
 **Passos do CRISP-DS**:
@@ -90,25 +89,46 @@ Esse ciclo se repete, permitindo melhorias contínuas com base no feedback e na 
 
  ![](/img/mind_map.png)
 
- Através desse Mindmap, foram geradas 19 hipóteses de negócio, das quais 12 foram escolhidas para serem validadas, confirmando assim  premissas da equipe de negócios e do dono do problema, além da geração de insights para ambos.
+ Através desse Mindmap, foram geradas 12 hipóteses de negócio, das quais 11 foram escolhidas para serem validadas, confirmando assim premissas da equipe de negócios e do CEO, além da geração de insights para ambos.
 
- Dessas 12 hipóteses verificadas, os 3 principais insights gerados foram:
+ Dessas 11 hipóteses verificadas, os principais insights gerados foram:
 
- ## Insight 1: Lojas Abertas durante o feriado de Natal deveriam vender mais
- **Hipótese Falsa:** Lojas que ficam abertas durante o feriado de natal não vendem mais em comparação a outros feriados
+ ## Insight 1: Lojas com maior sortimento deveriam vender MAIS.
+ **Hipótese Falsa:** Lojas com maior sortimento vendem menos.
 
- ![](img/hip_1.png)
+ ![](img/h1.png)
 
 
  ## Insight 2: Lojas Deveriam vender mais depois do dia 10 de cada mês
  **Hipótese Verdadeira:** Lojas realmente vendem mais depois do dia 10 de cada mês
 
- ![](img/hip_2.png)
+ ![](img/h2.png)
 
  ## Insight 3: Lojas deveriam vender mais no segundo semestre do ano
  **Hipótese Falsa:** Lojas vendem MENOS no segundo semestre do ano
 
- ![](img/hip_3.png)
+ ![](img/h3.png)
+
+ ## Insight 4: Lojas com maior sortimento deveriam vender MAIS.
+ **Hipótese Falsa:** Lojas com maior sortimento vendem menos.
+
+ ![](img/h4.png)
+
+ ## Insight 5: Lojas com maior sortimento deveriam vender MAIS.
+ **Hipótese Falsa:** Lojas com maior sortimento vendem menos.
+
+ ![](img/h5.png)
+
+ ## Insight 6: Lojas com maior sortimento deveriam vender MAIS.
+ **Hipótese Falsa:** Lojas com maior sortimento vendem menos.
+
+ ![](img/h6.png)
+
+ ## Insight 7: Lojas com maior sortimento deveriam vender MAIS.
+ **Hipótese Falsa:** Lojas com maior sortimento vendem menos.
+
+ ![](img/h7.png)
+ 
 
  # 5. Modelos de Machine Learning
  Para o primeiro ciclo do projeto foram selecionados 5 algoritmos para teste, a fim de escolher o algoritmo que tivesse a melhor perfomance e o melhor custo de implementação. Foi optado pela simplicidade nessa etapa inicial, visto que era o primeiro ciclo do projeto e o objetivo principal era entregar uma solução que fosse mínimamente utilizável para a equipe de negócios e pelo CFO.
