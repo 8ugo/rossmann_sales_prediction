@@ -77,18 +77,18 @@ Esse ciclo se repete, permitindo melhorias contínuas com base no feedback e na 
 
  ## 3.2. Ferramentas Utilizadas
  Para criar a solução, foram utilizadas as seguintes ferramentas:
- - Linguagem de Programação Python versão 3.8.13
+ - Linguagem de Programação Python versão 3.10.9
  - Versionador de código Git
  - Aplicação Jupyter Notebook para prototipar a solução
- - Serviço de Hospedagem em Nuvem Heroku
+ - Serviço de Hospedagem em Nuvem Render
  - Técnicas de manipulação de dados utilizando a linguagem de programação Python
- - Técnicas de redução de dimensionalidade e seleção de atributos
+ - Técnicas de redução de dimensionalidade e seleção de atributos utilizando Boruta
  - Algoritmos de Machine Learning da biblioteca [scikit-learn](https://scikit-learn.org/stable/) da linguagem de programação Python
 
- # 4. Top 3 Insights
+ # 4. Insights de Negócio
  Foi criado um Mindmap para ajudar na construção de Hipóteses, a fim de facilitar e delimitar o escopo da etapa de análise exploratória.
 
- ![](/img/mind_map_hypothesis.png)
+ ![](/img/mind_map.png)
 
  Através desse Mindmap, foram geradas 19 hipóteses de negócio, das quais 12 foram escolhidas para serem validadas, confirmando assim  premissas da equipe de negócios e do dono do problema, além da geração de insights para ambos.
 
