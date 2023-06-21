@@ -201,13 +201,13 @@ Esse ciclo se repete, permitindo melhorias contínuas com base no feedback e na 
  Com o modelo selecionado e treinado, obtivemos a seguinte performance de negócio para as 5 melhores lojas:
  
 
- | ID da Loja |     Previsões |  Pior Cenário | Melhor Cenário |         MAE |     MAPE |
- | :--------- | ------------: | ------------: | -------------: | ----------: | -------: |
- |        733	|  630917.43750	| 630243.330101 |  631591.544899	|  674.107399	| 0.045766 |
- |	       259	|  547512.87500	| 546918.842024	|  548106.907976	|  594.032976	| 0.047181 |
-	|        763	|  232939.84375	| 232629.126874	|  233250.560626	|  310.716876	| 0.050990 |
-	|        667	|  314187.06250	| 313680.551758	|  314693.573242	|  506.510742	| 0.056180 |
-	|        615	|  336742.81250	| 336204.028188	|  337281.596812	|  538.784312	| 0.058329 |
+| ID da Loja |     Previsões |  Pior Cenário | Melhor Cenário |         MAE |     MAPE |
+| :--------- | ------------: | ------------: | -------------: | ----------: | -------: |
+|        733 |  630917.43750 | 630243.330101 |  631591.544899 |  674.107399 | 0.045766 |
+|	 259 |  547512.87500 | 546918.842024 |  548106.907976 |  594.032976 | 0.047181 |
+|        763 |  232939.84375 | 232629.126874 |  233250.560626 |  310.716876 | 0.050990 |
+|        667 |  314187.06250 | 313680.551758 |  314693.573242 |  506.510742 | 0.056180 |
+|        615 |  336742.81250 | 336204.028188 |  337281.596812 |  538.784312 | 0.058329 |
 
  Um ponto importante de ressaltar, é que houveram algumas lojas que não obtiveram bons resultados, e que em uma próxima iteração deve ser tratadas individualmente para verificar qual pode ser o problema para essas lojas. As 5 piores lojas tiveram a seguinte performance:
 
